@@ -37,6 +37,6 @@ tools/dist_test.sh ${config} ${ckpt} ${num_gpu} --eval mAP
 
 ## Model weights
 
-The pretrained weights in 'ckpt' folder can be found [here](https://drive.google.com/drive/folders/1eWT82gFlY-ivyoeWza2GKD71RvwoXUDk?usp=drive_link).
+The pretrained weights in 'ckpt' folder can be found [here](https://drive.google.com/drive/folders/1BFm4URLMj06O0H7T_9QDauX_7dAoRkXX?usp=drive_link).
 
 All model weights can be found [here](https://drive.google.com/drive/folders/1yuPtZylYFgHQD3G7lyqCNh6v61QbJRdu?usp=sharing).
