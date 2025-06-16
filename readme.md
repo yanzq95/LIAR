@@ -40,3 +40,15 @@ tools/dist_test.sh ${config} ${ckpt} ${num_gpu} --eval mAP
 The pretrained weights in 'ckpt' folder can be found [here](https://drive.google.com/drive/folders/1BFm4URLMj06O0H7T_9QDauX_7dAoRkXX?usp=drive_link).
 
 All model weights can be found [here](https://drive.google.com/drive/folders/1yuPtZylYFgHQD3G7lyqCNh6v61QbJRdu?usp=sharing).
+
+## Citation
+
+If our method proves to be of any assistance, please consider citing:
+```
+@article{wu2025see,
+  title={See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction},
+  author={Wu, Yuan and Yan, Zhiqiang and Zhang, Yigong and Li, Xiang and Yang, Jian},
+  journal={arXiv preprint arXiv:2505.20641},
+  year={2025}
+}
+```
